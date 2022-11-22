@@ -1,2 +1,3 @@
 # GroceryBot
-A grocery shopping virtual conversational agent
+A grocery shopping virtual Conversational Agent created using Furhat.
+
